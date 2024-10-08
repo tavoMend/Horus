@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="absolutelayout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/horus/lib/absolutelayout/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus/lib/absolutelayout/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

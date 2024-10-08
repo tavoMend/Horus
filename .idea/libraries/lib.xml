@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/bytes-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/poi-ooxml-schemas-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/mail-1.5.0-b01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/bcrypt-0.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/jbcrypt-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/poi-ooxml-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/poi-3.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/mysql-connector-j-8.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/DateUtils-7.0.0-RC3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/joda-time-2.12.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/lib/xmlbeans-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/horus/lib/DateUtils-7.0.0-RC3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus/lib/mysql-connector-j-8.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/horus/lib/joda-time-2.12.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

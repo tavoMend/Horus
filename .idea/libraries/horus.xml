@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="horus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/horus (3)/horus/dist/horus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
